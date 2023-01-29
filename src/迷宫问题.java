@@ -1,5 +1,11 @@
 import java.util.Scanner;
-
+//5 4
+//        0 0 1 0
+//        0 0 0 0
+//        0 0 1 0
+//        0 1 0 0
+//        0 0 0 1
+//        1 1 4 3
 public class 迷宫问题 {
     static int row,col,sum=Integer.MAX_VALUE;
     static int[][] map;

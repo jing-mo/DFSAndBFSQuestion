@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae6d7f39-bb5b-4644-919c-e28a32f1ea3e" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFSQuestion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/迷宫问题.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae6d7f39-bb5b-4644-919c-e28a32f1ea3e" name="变更" comment="2023/1/29" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,11 +53,23 @@
       <option name="presentableId" value="Default" />
       <updated>1674918403807</updated>
       <workItem from="1674918405104" duration="2477000" />
-      <workItem from="1674958898732" duration="854000" />
+      <workItem from="1674958898732" duration="1163000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/1/29">
+      <created>1674967710877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674967710877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023/1/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/1/29" />
   </component>
 </project>
